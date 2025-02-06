@@ -1,0 +1,14 @@
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\bin\Debug\net7.0\OOP_lab02.exe
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\bin\Debug\net7.0\OOP_lab02.deps.json
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\bin\Debug\net7.0\OOP_lab02.runtimeconfig.json
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\bin\Debug\net7.0\OOP_lab02.dll
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\bin\Debug\net7.0\OOP_lab02.pdb
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\obj\Debug\net7.0\OOP_lab02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\obj\Debug\net7.0\OOP_lab02.AssemblyInfoInputs.cache
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\obj\Debug\net7.0\OOP_lab02.AssemblyInfo.cs
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\obj\Debug\net7.0\OOP_lab02.csproj.CoreCompileInputs.cache
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\obj\Debug\net7.0\OOP_lab02.dll
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\obj\Debug\net7.0\refint\OOP_lab02.dll
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\obj\Debug\net7.0\OOP_lab02.pdb
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\obj\Debug\net7.0\OOP_lab02.genruntimeconfig.cache
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab02\obj\Debug\net7.0\ref\OOP_lab02.dll
