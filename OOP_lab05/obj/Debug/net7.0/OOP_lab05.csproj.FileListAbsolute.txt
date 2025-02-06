@@ -1,0 +1,5 @@
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab05\obj\Debug\net7.0\OOP_lab05.csproj.AssemblyReference.cache
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab05\obj\Debug\net7.0\OOP_lab05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab05\obj\Debug\net7.0\OOP_lab05.AssemblyInfoInputs.cache
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab05\obj\Debug\net7.0\OOP_lab05.AssemblyInfo.cs
+C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab05\obj\Debug\net7.0\OOP_lab05.csproj.CoreCompileInputs.cache

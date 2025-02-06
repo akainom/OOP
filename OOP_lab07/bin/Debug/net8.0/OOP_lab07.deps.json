@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OOP_lab07/1.0.0": {
+        "dependencies": {
+          "OOP_lab03": "1.0.0",
+          "OOP_lab04": "1.0.0"
+        },
+        "runtime": {
+          "OOP_lab07.dll": {}
+        }
+      },
+      "OOP_lab03/1.0.0": {
+        "runtime": {
+          "OOP_lab03.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OOP_lab04/1.0.0": {
+        "runtime": {
+          "OOP_lab04.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP_lab07/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP_lab03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OOP_lab04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
