@@ -1,0 +1,9 @@
+Directory: C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab12\bin\Debug\net8.0\PVRInspect
+Directory: C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab12\bin\Debug\net8.0\TestDir
+File: C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab12\bin\Debug\net8.0\OOP_lab12.deps.json
+File: C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab12\bin\Debug\net8.0\OOP_lab12.dll
+File: C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab12\bin\Debug\net8.0\OOP_lab12.exe
+File: C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab12\bin\Debug\net8.0\OOP_lab12.pdb
+File: C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab12\bin\Debug\net8.0\OOP_lab12.runtimeconfig.json
+File: C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab12\bin\Debug\net8.0\pvrlogfile.txt
+File: C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab12\bin\Debug\net8.0\test.txt

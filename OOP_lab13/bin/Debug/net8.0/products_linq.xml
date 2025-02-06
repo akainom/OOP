@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+  <Cake>
+    <Name>Vanilla Cake</Name>
+    <Price>15.99</Price>
+    <Layers>3</Layers>
+  </Cake>
+</Products>

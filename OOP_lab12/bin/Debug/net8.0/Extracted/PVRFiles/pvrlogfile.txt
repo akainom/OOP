@@ -1,0 +1,5 @@
+[04.01.2025 14:51:21] ACTION: Disk Info | DETAILS: Drive C:\ checked.
+[04.01.2025 14:51:21] ACTION: Disk Info | DETAILS: Drive D:\ checked.
+[04.01.2025 14:51:21] ACTION: File Info | DETAILS: Info retrieved for test.txt
+[04.01.2025 14:51:21] ACTION: Directory Info | DETAILS: Info retrieved for TestDir
+[04.01.2025 14:51:21] ACTION: Inspect Disk | DETAILS: Inspected C:\Users\kavop\OneDrive\Документы\Belstu\ОАиП\Solutions\OOP\OOP_lab12\bin\Debug\net8.0, info saved in PVRInspect\pvrdirinfo_copy.txt
